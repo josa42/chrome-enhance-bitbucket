@@ -1,0 +1,11 @@
+.enhanced-bitbucket.hide-deleted-in-diff .bb-udiff.delete-diff {
+  display: none;
+}
+
+/*.enhanced-bitbucket .bb-udiff.delete-diff .diff-content-container {
+  display: none;
+}
+.enhanced-bitbucket .bb-udiff.delete-diff .heading {
+  border-bottom: 1px solid #ccc;
+  border-radius: 5px;
+}*/
